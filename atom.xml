@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Combine Organization</title>
+  
+  
+  <link href="https://lianheguozhengfu.top/atom.xml" rel="self"/>
+  
+  <link href="https://lianheguozhengfu.top/"/>
+  <updated>2023-03-11T07:28:40.660Z</updated>
+  <id>https://lianheguozhengfu.top/</id>
+  
+  <author>
+    <name>Wit Marx</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://lianheguozhengfu.top/2023/03/05/hello-world/"/>
+    <id>https://lianheguozhengfu.top/2023/03/05/hello-world/</id>
+    <published>2023-03-05T14:07:43.696Z</published>
+    <updated>2023-03-11T07:28:40.660Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to Combine Organization!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to Combine Organization!&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
