@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://lianheguozhengfu.top/about/index.html</loc>
+    
+    <lastmod>2024-04-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://lianheguozhengfu.top/%E7%A5%9E%E7%A7%98%E9%93%BE%E6%8E%A5/</loc>
     
     <lastmod>2024-04-04</lastmod>
@@ -41,15 +50,6 @@
     <loc>https://lianheguozhengfu.top/404/index.html</loc>
     
     <lastmod>2023-03-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lianheguozhengfu.top/about/index.html</loc>
-    
-    <lastmod>2023-03-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
