@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://lianheguozhengfu.top/posts/archives/3227.html/</loc>
+    
+    <lastmod>2024-12-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://lianheguozhengfu.top/posts/archives/12364.html/</loc>
     
     <lastmod>2024-12-13</lastmod>
@@ -76,7 +85,7 @@
 
   <url>
     <loc>https://lianheguozhengfu.top/</loc>
-    <lastmod>2024-12-13</lastmod>
+    <lastmod>2024-12-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -84,7 +93,14 @@
   
   <url>
     <loc>https://lianheguozhengfu.top/tags/%E5%8E%9F%E7%A5%9E/</loc>
-    <lastmod>2024-12-13</lastmod>
+    <lastmod>2024-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lianheguozhengfu.top/tags/GPTs/</loc>
+    <lastmod>2024-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
